@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba Binding</string>
+    <string name="txtTtulo">Operaciones</string>
+    <string name="txtConsigna">Ingrese dos números y seleccione\nla operación a realizar</string>
+    <string name="txtNum1">Primer número</string>
+    <string name="txtNum2">Segundo número</string>
+    <string name="txtCalcular">Calcular</string>
+</resources>
